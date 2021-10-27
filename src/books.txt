@@ -1,0 +1,4 @@
+;0;1;Zwiadowcy;John Flanangan;
+;1;2;Dziady;Adam Mickiewicz;
+;2;4;Bible;God;
+;3;1;Drużyna;John Flanangan;
